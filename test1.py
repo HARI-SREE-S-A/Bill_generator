@@ -6,6 +6,7 @@ from fpdf import FPDF
 import base64
 
 
+
 # Define external CSS stylesheet
 external_stylesheets = ['https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css']
 
